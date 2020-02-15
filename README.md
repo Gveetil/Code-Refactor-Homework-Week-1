@@ -1,7 +1,9 @@
 # Code Refactoring for Horiseon
 
+ [![Image of Horiseon Logo](assets/images/ReadMe_Logo.png "Open Horiseon's deployed website")](https://gveetil.github.io/Code-Refactor-Homework-Week-1)
+
 ## Context
-This Project was created as part of the Coding Bootcamp course conducted by Monash University. "https://bootcamps.monash.edu/"
+This Project was created as part of the [Coding Bootcamp](https://bootcamps.monash.edu/ "Open Coding Bootcamp website") course conducted by Monash University. 
 
 ##  Description
 Horiseon is a marketing agency who want their code base refactored to follow accessibility standards. They also want to optimize their website for search engines. This project is about refactoring their code base to meet these requirements.
@@ -9,6 +11,8 @@ Horiseon is a marketing agency who want their code base refactored to follow acc
 Refactoring code can be quite tricky since you don't want to change functionality or design, but you do learn so much about how to code, and more importantly, how *not* to code, in the process. This is what makes this project both exciting and challenging at the same time. 
 
 ## Solution
+![Image of Horiseon Main Page](assets/images/ReadMe_HoriseonWebsite.jpg "Horiseon Main Page")
+
 The list of changes made to Horiseon's code base and the problems they aim to solve are as detailed below:
 
 ### Accessibility Standards and Search Engine Optimizations
